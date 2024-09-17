@@ -6,7 +6,6 @@ Course Number: Csc-138
 Date: 2024-09-17
 Class Section: EN
 
-
 # Function to convert Fahrenheit to Celsius using the correct formula
 def f2c(f):
     """
